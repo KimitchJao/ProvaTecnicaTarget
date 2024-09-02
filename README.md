@@ -12,4 +12,4 @@ diferente, que são Python e Java.
 Essas são as duas linguagens que mais domino e por enquanto
 mais estudei, mas espero que não seja motivo de eliminação. 😅
 
-Espero que gostem dos códigos, e que podemos conversar mais a diante!!
+Espero que gostem dos códigos, e que podemos conversar mais adiante!!
