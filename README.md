@@ -1,15 +1,12 @@
-Olá recrutadores da Target!
+Olá, recrutadores da Target!
 
-Meu nome é João Felipe Ballet! Muito Prazer!!
+Meu nome é João Felipe Ballet, é um prazer me apresentar a vocês.
 
-Esse é o Repositório que foi requesitado por vocês, e fico
-muito feliz de estar podendo demonstrar para vocês. 😊
+Este repositório foi criado conforme solicitado e estou muito entusiasmado em poder demonstrar minhas habilidades. A prova técnica foi realizada em duas linguagens distintas: Python e Java. Cada questão foi solucionada em ambas as linguagens, as quais tenho maior domínio e experiência até o momento.
 
-A prova técnica foi realizada duas vezes, em duas linguagens
-diferentes, ou seja, cada questão possui duas linguagens
-diferente, que são Python e Java.
+Embora essas sejam as linguagens com as quais estou mais familiarizado, estou sempre em busca de novos conhecimentos e desafios. Espero que isso não seja uma limitação, mas sim uma oportunidade de demonstrar minha capacidade de adaptação e aprendizado.
 
-Essas são as duas linguagens que mais domino e por enquanto
-mais estudei, mas espero que não seja motivo de eliminação. 😅
+Agradeço pela oportunidade e espero que possamos conversar em breve!
 
-Espero que gostem dos códigos, e que podemos conversar mais adiante!!
+Atenciosamente,
+João Felipe Ballet
